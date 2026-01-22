@@ -26,7 +26,7 @@ Hands on experience with networking turn-ups, troubleshooting connectivity issue
 * **CompTIA Security+** - In Progress █████▒▒▒▒▒ 50%
 
  
-## Technical Write-Ups (Medium) 
+## Technical Write-Ups 
 * I document my IT, networking, and cloud projects with clear, step by step explanations.
 
 * **Medium:** https://medium.com/@labossiere01

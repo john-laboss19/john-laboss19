@@ -20,3 +20,5 @@
 * CompTIA Network+ - In Progress █████▒▒▒▒▒ 50%
 * CompTIA Security+ - In Progress █████▒▒▒▒▒ 50%
  
+## Socials
+* www.linkedin.com/in/johnlaboss

@@ -3,11 +3,8 @@ Hands on experience with networking turn-ups, troubleshooting connectivity issue
 
 ## IT Networking & Troubleshooting Projects
 * [Branch Office Network Turn-Up](https://github.com/john-laboss19/Network-labs/tree/master/lab-1-branch-office-network)
-  Simulated customer site activation: IP addressing, gateway setup, and connectivity validation
 * [DHCP Configuration](https://github.com/john-laboss19/Network-labs/tree/master/lab-2-dhcp-configuration)
-  Configured DHCP scopes and verified client connectivity
 * [DNS Resolution & Troubleshooting](https://github.com/john-laboss19/Network-labs/tree/master/lab-3-dns-resolution-and-troubleshooting)
-  Troubleshot DNS failures where network connectivity worked but applications could not resolve names
 
 
 ## Cloud & Automation Projects

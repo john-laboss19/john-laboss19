@@ -24,7 +24,7 @@
 * www.linkedin.com/in/johnlaboss
 
 ## Technical Write-Ups (Medium) https://medium.com/@labossiere01
-* I document my AWS/Azure Cloud and IT projects with clear, step-by-step explanations.
+* I document my AWS/Azure Cloud and IT projects with clear, step by step explanations.
 * **Medium:** https://medium.com/@labossiere01
 * [Two-Tier Architecture in AWS](https://medium.com/@labossiere01/two-tier-architecture-in-aws-82966e26929f)
 * [Navigating the Ubuntu Terminal: User and Group Management](https://medium.com/@labossiere01/navigating-the-ubuntu-terminal-user-and-group-management-edcd78fe6537)

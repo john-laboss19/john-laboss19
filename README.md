@@ -9,6 +9,11 @@
 * Escalation ticket in osTicket
 * Active Directory managing users
 
+## Cloud Projects
+* [Deploy A Jenkins Server with Terraform](https://github.com/john-laboss19/Terraform-Jenkins)
+* [AWS Lambda: Automatically Stop EC2 Instances](https://github.com/john-laboss19/Lambda-Stop-EC2-Instances/blob/main/README.md)
+* [Data Extraction with Python & VS Code](https://github.com/john-laboss19/Data-Extraction.py)
+
 ## Cerifications
 * CompTIA A+
 * AWS Certified Cloud Practitioner

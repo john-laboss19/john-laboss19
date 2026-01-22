@@ -13,6 +13,7 @@
 * [Deploy A Jenkins Server with Terraform](https://github.com/john-laboss19/Terraform-Jenkins)
 * [AWS Lambda: Automatically Stop EC2 Instances](https://github.com/john-laboss19/Lambda-Stop-EC2-Instances/blob/main/README.md)
 * [Data Extraction with Python & VS Code](https://github.com/john-laboss19/Data-Extraction.py)
+* [CI/CD Using AWS CodePipeline and GitHub](https://github.com/john-laboss19/1st-CICD/blob/main/website.html)
 
 ## Cerifications & Progression
 * CompTIA A+ - Completed ██████████ 100%

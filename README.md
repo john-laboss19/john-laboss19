@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm John, a Network & IT Support Specialist
 
-<!--
-**john-laboss19/john-laboss19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IT Networking Projects
+* [Branch Office Network Turn-Up](https://github.com/john-laboss19/Network-labs/tree/master/lab-1-branch-office-network)s)
+* [DHCP Configuration](https://github.com/john-laboss19/Network-labs/tree/master/lab-2-dhcp-configuration)
+* [DNS Resolution & Troubleshooting](https://github.com/john-laboss19/Network-labs/tree/master/lab-3-dns-resolution-and-troubleshooting)
 
-Here are some ideas to get you started:
+## IT Support Projects
+* Escalation ticket in osTicket
+* Active Directory managing users
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cerifications
+* CompTIA A+
+* AWS Certified Cloud Practitioner
+ 

@@ -14,7 +14,9 @@
 * [AWS Lambda: Automatically Stop EC2 Instances](https://github.com/john-laboss19/Lambda-Stop-EC2-Instances/blob/main/README.md)
 * [Data Extraction with Python & VS Code](https://github.com/john-laboss19/Data-Extraction.py)
 
-## Cerifications
-* CompTIA A+
-* AWS Certified Cloud Practitioner
+## Cerifications & Progression
+* CompTIA A+ - Completed ██████████ 100%
+* AWS Certified Cloud Practitioner - Completed ██████████ 100%
+* CompTIA Network+ - In Progress █████▒▒▒▒▒ 50%
+* CompTIA Security+ - In Progress █████▒▒▒▒▒ 50%
  

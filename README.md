@@ -9,9 +9,6 @@ Hands on experience with networking turn-ups, troubleshooting connectivity issue
 * [DNS Resolution & Troubleshooting](https://github.com/john-laboss19/Network-labs/tree/master/lab-3-dns-resolution-and-troubleshooting)
   *Troubleshot DNS failures where network connectivity worked but applications could not resolve names*
 
-## IT Support Projects
-* Escalation ticket in osTicket
-* Active Directory managing users
 
 ## Cloud & Automation Projects
 * [Deploy A Jenkins Server with Terraform](https://github.com/john-laboss19/Terraform-Jenkins)
